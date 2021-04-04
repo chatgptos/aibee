@@ -1,0 +1,8 @@
+2021-03-29 20:55:55 > yansongda.pay.INFO > Wechat Wap Has Started ["https://api.mch.weixin.qq.com/",{"appid":"wxade01cf5c28a04c0","mch_id":"1555897421","nonce_str":"gjfhYtYwuxr5C0Hu","notify_url":"http://api.aijiehun.com/wanlshop/callback/notify_recharge/type/wechat","spbill_create_ip":"112.65.61.88","out_trade_no":"20210329085555000000022373","body":"充值-20210329085555000000022373","total_fee":100,"trade_type":"MWEB"}] 
+
+2021-03-29 20:55:55 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wxade01cf5c28a04c0","mch_id":"1555897421","nonce_str":"gjfhYtYwuxr5C0Hu","notify_url":"http://api.aijiehun.com/wanlshop/callback/notify_recharge/type/wechat","spbill_create_ip":"112.65.61.88","out_trade_no":"20210329085555000000022373","body":"充值-20210329085555000000022373","total_fee":100,"trade_type":"MWEB","sign":"5CE6C00C546D6584B36CABFDEFFC58B6"}] 
+
+2021-03-29 20:56:25 > yansongda.pay.INFO > Wechat Wap Has Started ["https://api.mch.weixin.qq.com/",{"appid":"wxade01cf5c28a04c0","mch_id":"1555897421","nonce_str":"rfoPMEdMkD63JIWL","notify_url":"http://api.aijiehun.com/wanlshop/callback/notify_recharge/type/wechat","spbill_create_ip":"112.65.61.88","out_trade_no":"20210329085625000000024969","body":"充值-20210329085625000000024969","total_fee":100,"trade_type":"MWEB"}] 
+
+2021-03-29 20:56:25 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wxade01cf5c28a04c0","mch_id":"1555897421","nonce_str":"rfoPMEdMkD63JIWL","notify_url":"http://api.aijiehun.com/wanlshop/callback/notify_recharge/type/wechat","spbill_create_ip":"112.65.61.88","out_trade_no":"20210329085625000000024969","body":"充值-20210329085625000000024969","total_fee":100,"trade_type":"MWEB","sign":"312E8A3A8CE0BDDFD70245BE23C1ACDB"}] 
+

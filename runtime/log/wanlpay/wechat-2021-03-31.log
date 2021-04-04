@@ -1,0 +1,4 @@
+2021-03-31 13:07:47 > yansongda.pay.INFO > Wechat PreOrder Method Has Called ["",{"appid":"wxade01cf5c28a04c0","mch_id":"1555897421","nonce_str":"aYopa8iomEiuspoi","notify_url":"https://api.aijiehun.com/wanlshop/callback/notify_recharge/type/wechat","spbill_create_ip":"112.65.48.21","out_trade_no":"20210331010746000000023109","body":"充值-20210331010746000000023109","total_fee":100,"openid":"ogZOL5XwAe-PVnKuJnAAiSXP5fA0","trade_type":"JSAPI","sign":"29FAE5C64E1AECD13FC5E15E95AEA212"}] 
+
+2021-03-31 13:07:47 > yansongda.pay.INFO > Wechat JSAPI Has Started ["https://api.mch.weixin.qq.com/",{"appId":"wxade01cf5c28a04c0","timeStamp":"1617167267","nonceStr":"pg06fWVzkhpXYP1u","package":"prepay_id=wx31130747373279558fca6c5bf60d830000","signType":"MD5","paySign":"F2F9BEB1B6646548BE4CE91EFEB860C2"}] 
+

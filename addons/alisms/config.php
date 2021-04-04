@@ -1,30 +1,7 @@
 <?php
 
 return [
-    [
-        'name' => 'key',
-        'title' => '应用key',
-        'type' => 'string',
-        'content' => [],
-        'value' => 'LTAI5t8dmhqudC97RXPXfxvU',
-        'rule' => 'required',
-        'msg' => '',
-        'tip' => '',
-        'ok' => '',
-        'extend' => '',
-    ],
-    [
-        'name' => 'secret',
-        'title' => '密钥secret',
-        'type' => 'string',
-        'content' => [],
-        'value' => 'og4aGXK4UZhz6akvaSAsEnPOaeVfin',
-        'rule' => 'required',
-        'msg' => '',
-        'tip' => '',
-        'ok' => '',
-        'extend' => '',
-    ],
+
     [
         'name' => 'sign',
         'title' => '签名',
